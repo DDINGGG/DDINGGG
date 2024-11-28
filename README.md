@@ -10,8 +10,7 @@
         <a href="mailto:suyeon8235@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyeon8235@gmail.com"/></a>
       </td>
       <td>
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<!--          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDINGGG&layout=compact"> -->
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDINGGG&layout=compact">
       </td>
     </tr>
     <tr>
